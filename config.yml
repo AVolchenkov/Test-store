@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: 132224647403
+  store: avolchenkov.myshopify.com
+  ignore_files:
+    #- settings_data.json # Uncomment this line to avoid resetting theme settings
